@@ -7,7 +7,7 @@ using namespace std;
 class node{
     public:
     int data;
-    node* next;
+   
     node*last};
     
     void printlist(node*n)
